@@ -1,7 +1,7 @@
-# jvm-monitoring
+# JVM-monitoring
+----
 
-목차
-======
+## 
 1. [목적](#목적)
 2. [JVM?](#JVM?)
 3. [다른Tools](#tools)
@@ -12,8 +12,8 @@
 
 ## 목적
 * JVM의 구조이해 ~~(주 목적)~~
-* 성능관리
-* 
+* 성능관리 (cpu, memory, gc...)
+
 ## JVM?
 
 ## 다른Tools
