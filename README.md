@@ -1,6 +1,6 @@
-# JVM-monitoring
+# **JVM-monitoring Tool**
 
-## 목차 
+## 목차
 1. [목적](#목적)
 2. [JVM?](#JVM?)
 3. [다른Tools](#tools)
@@ -15,7 +15,6 @@
 * 성능관리 (cpu, memory, gc...)
 ## JVM?
 * JVM 전체구조
-> <img
 ## 다른Tools
 * Jconsole
 * VisualVM
